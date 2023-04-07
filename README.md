@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **mechuuri/mechuuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### ⚡ 안녕하세요 박서연입니다.
+<a href="#"><img src="https://img.shields.io/badge/Java-ff7f00?style=flat&logo=openjdk&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/></a>
+
+<!-- 뱃지 만드는 법 -->
+<!-- https://simpleicons.org -->
+<!-- https://shields.io/ -->
+<!-- https://img.shields.io/badge/[텍스트]-[색상 코드]?style=[로고 스타일]&logo=[로고 이름]&logoColor=[로고 색상] -->
